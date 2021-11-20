@@ -47,11 +47,6 @@ document.write("Numeros Pares: " + listaPares.length +
     "<hr/>" + "Media geral: " + mediaGeral + '<hr/>' +
     "<hr/>" + "Media pares: " + mediaPares + '<hr/>')
 
-
-
-
-
-
 /*
 
 while(numeroDigitado != 0){
